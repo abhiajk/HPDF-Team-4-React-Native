@@ -15,7 +15,7 @@ Make sure you have installed:
 
 3.Android Emulator compatible with react-native (SDK:23, OS: marshmallow).
 
-3.react-native-cli
+4.react-native-cli
   
   -To install react-native-cli run the following command in your terminal.
   
